@@ -1,7 +1,7 @@
 <?php
 
 /*
-Plugin Name: Blacklist WooLocations
+Plugin Name: Whitelist WooLocations
 Plugin URI: https://github.com/
 Description: Only Sell To Specific States Within The United States. Add and Remove States By Commenting Out State Exclusions using #
 Author: Northwest Cyber Solutions
